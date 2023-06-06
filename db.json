@@ -5,6 +5,44 @@
       "name": "Chunnu",
       "email": "chunnu@mail",
       "password": "chunnu"
+    },
+    {
+      "id": 2,
+      "name": "Salil",
+      "email": "xyz@mail",
+      "password": "password"
+    }
+  ],
+  "income": [
+    {
+      "id": 1,
+      "userId": 2,
+      "category": "Salary",
+      "amount": 1000,
+      "date": "2023-06-08"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "category": "Gifts",
+      "amount": 500,
+      "date": "2023-06-28"
+    }
+  ],
+  "expense": [
+    {
+      "id": 1,
+      "userId": 1,
+      "category": "Bills",
+      "amount": 1000,
+      "date": "2023-06-10"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "category": "Shopping",
+      "amount": 3000,
+      "date": "2023-06-11"
     }
   ]
 }
