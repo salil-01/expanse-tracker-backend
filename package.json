@@ -1,0 +1,24 @@
+{
+  "name": "expanse-tracker-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salil-01/expanse-tracker-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salil-01/expanse-tracker-backend/issues"
+  },
+  "homepage": "https://github.com/salil-01/expanse-tracker-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
